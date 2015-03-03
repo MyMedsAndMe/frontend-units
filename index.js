@@ -4,7 +4,6 @@ export default class Storage {
   }
 
   get() {
-    return 'mung';
   }
 
 }
