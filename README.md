@@ -1,4 +1,4 @@
-# frontend-units
+# frontend-units [DEPRECATED]
 
 Make the tests pass!
 
